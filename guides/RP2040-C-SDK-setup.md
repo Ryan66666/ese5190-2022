@@ -41,6 +41,7 @@
 - Ronil Synghal: https://github.com/ronils428/ese519-notes/blob/main/lab2-setup-guide.md
 - Zhijing Yao: https://github.com/ZhijingY/ESE519-lab2/blob/main/README.md
 - Yu Feng: https://github.com/skyfall88888/ESE519-Lab2-Setup-Guide
+- Chongyuan Zhang:https://github.com/Ryan66666/ese5190-2022-lab2-into-the-void-star/blob/main/Chongyuan%20Zhang_Setup_guide
 #### M1/M2
 - TEMPLATE [Student Name: link to guide]
 - Yuchen Wang https://github.com/YuchenWang0303/Documentation-of-M1-MacBook-to-use-QT-PY-2040-.git
